@@ -1,0 +1,12 @@
+.board {
+  width: 500px;
+  height: 500px;
+  display: grid;
+  border: 5px;
+  border-color: black;
+  border-style: solid;
+}
+
+.board:hover {
+  cursor: pointer;
+}
